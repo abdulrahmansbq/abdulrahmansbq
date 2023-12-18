@@ -10,14 +10,15 @@ Hi there! I'm Abdulrahman Alsubayq, a passionate software engineer and full stac
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdulrahmansbq)
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats and Most Used Languages
 
-![Most Used Languages](https://mz-github-stats.vercel.app/api/top-langs/?username=abdulrahmansbq)
+![GitHub Stats](https://mz-github-stats.vercel.app/api?username=abdulrahmansbq&show_icons=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmansbq&layout=compact&langs_count=8&card_width=320)
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Abdulrahman Alsubayq](#)
-- Twitter: [@yourtwitterhandle](#)
-- Portfolio: [Your Portfolio Website](#)
+- LinkedIn: [Abdulrahman Alsubayq](https://linkedin.com/in/abdulrahmansbq)
+- Twitter: [@abdulrahmansbq](https://twitter.com/abdulrahmansbq)
+- Portfolio: [Abdulrahman Alsubayq](https://abdulrahmansbq.dev/)
 
 Feel free to explore my projects and repositories. If you have any questions or just want to say hi, don't hesitate to reach out. Happy coding! 🚀
