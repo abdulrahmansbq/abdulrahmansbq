@@ -21,4 +21,4 @@ Hi there! I'm Abdulrahman Alsubayq, a passionate software engineer and full stac
 - Twitter: [@abdulrahmansbq](https://twitter.com/abdulrahmansbq)
 - Portfolio: [Abdulrahman Alsubayq](https://abdulrahmansbq.dev/)
 
-Feel free to explore my projects and repositories. If you have any questions or just want to say hi, don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my projects and repositories. If you have any questions or just want to say hi, don't hesitate to reach me. Happy coding! 🚀
