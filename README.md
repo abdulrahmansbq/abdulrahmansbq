@@ -2,8 +2,6 @@
 
 Hi there! I'm Abdulrahman Alsubayq, a passionate software engineer and full stack website developer. Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working at [Fateel](https://fateel.sa/) as a software engineer.
-- 🌱 I’m a senior Computer Science student at [King Faisal University](https://kfu.edu.sa/).
 - 🌐 You can find more about me on my [portfolio website](https://abdulrahmansbq.dev/).
 
 ## 🏆 GitHub Trophies
